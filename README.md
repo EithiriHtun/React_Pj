@@ -8,6 +8,9 @@
 #Redux install
  # npm i redux react-redux
 
+#React Route
+ # npm i react-router-dom
+
 
 
 
