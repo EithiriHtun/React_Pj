@@ -14,6 +14,7 @@
 #Ract Native
  # npm install expo-cli 
  # npm install -g expo-cli
+# npx expo init HelloNative
 
 
 # Getting Started with Create React App
