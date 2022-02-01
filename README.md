@@ -5,6 +5,8 @@
 #Run Pj 
  # npm start
 
+#Redux install
+ # npm i redux react-redux
 
 
 
