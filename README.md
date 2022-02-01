@@ -12,8 +12,8 @@
  # npm i react-router-dom
 
 #Ract Native
- # npm I expo-cli 
-
+ # npm install expo-cli 
+ # npm install -g expo-cli
 
 
 # Getting Started with Create React App
